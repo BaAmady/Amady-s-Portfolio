@@ -18,3 +18,5 @@ Used R to for this case study. steps followed:
 ask, prepapre, process, analyse, share and act.
 
 https://github.com/BaAmady/Amady-s-Portfolio/blob/main/000005.png
+
+https://github.com/BaAmady/Amady-s-Portfolio/blob/main/100005.png
