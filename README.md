@@ -11,3 +11,6 @@ My projects
 
 https://github.com/BaAmady/Amady-s-Portfolio/blob/main/tslaCapture.PNG
 https://github.com/BaAmady/Amady-s-Portfolio/blob/main/gmeCapture.PNG
+
+
+# [Project 2 : How can a wellness technology company play it smart: company name (Bellabeat) (https://www.kaggle.com/arashnic/fitbit)
