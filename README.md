@@ -8,3 +8,5 @@ My projects
 * Used Webscraping to Extract GME Revenue Data
 * Created Plot Tesla Stock Graph
 * Created Plot GameStop Stock Graph
+
+https://github.com/BaAmady/Amady-s-Portfolio/blob/main/tslaCapture.PNG
