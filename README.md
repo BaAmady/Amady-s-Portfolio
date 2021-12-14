@@ -10,3 +10,4 @@ My projects
 * Created Plot GameStop Stock Graph
 
 https://github.com/BaAmady/Amady-s-Portfolio/blob/main/tslaCapture.PNG
+https://github.com/BaAmady/Amady-s-Portfolio/blob/main/gmeCapture.PNG
