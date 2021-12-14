@@ -10,13 +10,13 @@ My projects
 * Created Plot GameStop Stock Graph
 
 :[](https://github.com/BaAmady/Amady-s-Portfolio/blob/main/tslaCapture.PNG)
-https://github.com/BaAmady/Amady-s-Portfolio/blob/main/gmeCapture.PNG
+:[](https://github.com/BaAmady/Amady-s-Portfolio/blob/main/gmeCapture.PNG)
 
 
 # [Project 2 : How can a wellness technology company play it smart: company name (Bellabeat)](https://www.kaggle.com/arashnic/fitbit)
 Used R to for this case study. steps followed:
 ask, prepapre, process, analyse, share and act.
 
-https://github.com/BaAmady/Amady-s-Portfolio/blob/main/000005.png
+:[](https://github.com/BaAmady/Amady-s-Portfolio/blob/main/000005.png)
 
-https://github.com/BaAmady/Amady-s-Portfolio/blob/main/100005.png
+:[](https://github.com/BaAmady/Amady-s-Portfolio/blob/main/100005.png)
